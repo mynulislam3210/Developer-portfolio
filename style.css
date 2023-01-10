@@ -3,12 +3,19 @@ body{
 }
 h1{font-size: 50px;}
 .Name-color{color: orange;}
-section{display: flex;}
+section{display: flex;
+        
+        }
 .Half-width{
     width: 50%;
     padding-left: 5%;
 }
-.Half-width image{width: 80%;}
+.sidebanner{
+    background-image: url(images/wave.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.Half-width image{width: 100%;}
 .HIRE-ME-BATTON{
     color: antiquewhite;
     text-decoration: none;
