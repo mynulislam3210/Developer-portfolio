@@ -9,3 +9,11 @@ section{display: flex;}
     padding-left: 5%;
 }
 .Half-width image{width: 80%;}
+.HIRE-ME-BATTON{
+    color: antiquewhite;
+    text-decoration: none;
+    background-color: rgb(202, 98, 0);
+    padding: 10px 40px;
+    border-radius: 5px;
+    
+}
