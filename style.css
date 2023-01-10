@@ -12,7 +12,7 @@ section{display: flex;}
 .HIRE-ME-BATTON{
     color: antiquewhite;
     text-decoration: none;
-    background-color: rgb(202, 98, 0);
+    background-image: linear-gradient(orange,tomato);
     padding: 10px 40px;
     border-radius: 5px;
     
