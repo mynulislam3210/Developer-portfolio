@@ -16,6 +16,12 @@ section{display: flex;
     background-position: right top, left top;
     background-size: 100% 100%;
 }
+.dream-big{background-image: url(images/wave.png),url(images/back.png),linear-gradient(orange,tomato);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right top, left top;
+    background-size: 100% 100%;
+
+}
 
 
 
