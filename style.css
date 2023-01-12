@@ -1,25 +1,30 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0;
+    margin: 0;background-image: linear-gradient(orange,red,rgb(214, 2, 150));
 }
 h1{font-size: 50px;}
 .Name-color{color: orange;}
-section{display: flex;
+.flexible-container{display: flex;
+        margin-bottom: 150px;
         }
+        
 .half-width{
     width: 60%,40%;
     padding-left: 2%;
 }
 .topbanner{
-    background-image: url(images/back.png),linear-gradient(tomato,orange);
+    background-image: url(images/back.png);
     background-repeat: no-repeat, no-repeat;
     background-position: right top, left top;
     background-size: 100% 100%;
 }
-.dream-big{background-image: url(images/back.png),linear-gradient(orange,tomato);
+.dream-big{background-image: url(images/back.png);
     background-repeat: no-repeat, no-repeat;
     background-position: right top, left top;
     background-size: 100% 100%;
+
+}
+.experiance-area{
 
 }
 
